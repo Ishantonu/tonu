@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+
+}
+body{
+background-color: aqua;
+
+}
+#eye{width: 50%;
+    margin: 100px auto;
+    padding: 15px;
+    border: 7px solid rgb(20, 148, 73);
+    background-color: rgb(9, 9, 145);
+
+}
+#eye h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(124, 8, 8);
+    margin: 30px auto;
+    text-align: center;
+}
+form{
+    margin: 50px 0px;
+}
+input,label{
+    display: block;
+    text-align: center;
+}
+input{
+    margin: 10px auto;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+padding: 2px solid rgb(248, 161, 0);
+
+border: 2px solid rgb(248, 161, 0);
+text-transform: uppercase;
+color:coral ;
+
+}
+.id{
+    color: rgb(238, 23, 23);
+    font-size: 25px;
+    background-color: black;
+}
+label{
+    font-size: 20px;
+text-transform: capitalize;
+color: coral;
+
+}
+.rana{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: coral;
+    margin: 10px  ;
+
+}
+.rana a{
+    color: rgb(36, 182, 182);
+    
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+
+

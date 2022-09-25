@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    border: 0;
+
+}
+body
+{
+    background-color:aqua ;
+}
+#eye{
+width: 80%;
+border: 7px solid rgb(8, 196, 93);
+margin:10% auto;
+color: rgb(224, 99, 54);
+padding: 15px;
+text-align: center;
+background-color:rgb(126, 16, 16);
+}
+#eye h1{
+    color: blue;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin: 10px auto;
+    padding: 10px;
+}
+label,input{
+    display: block;
+    text-align: center;
+}
+label{font-size: 20px;
+    text-transform: capitalize;
+
+    
+}
+input{
+    width: 30%;
+    margin: auto;
+    padding: 15px 5px;
+    background-color: antiquewhite;
+}
+.search{
+    padding: 10px;
+    margin: 10px auto;
+    transition: ease-in-out .05s;
+}
+.search:hover{
+    background-color:rgb(196, 132, 255);}
+    .para{
+        text-transform: capitalize;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .para a{
+        color: rgb(216, 25, 241);
+        text-decoration: none;
+        font-size: 22px;
+    }

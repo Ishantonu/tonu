@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+body
+{
+    background-color: aqua;
+}
+#eye{
+    width: 50%;
+    margin: 22px auto;
+    padding: 20px;
+    border: 5px solid rgb(8, 196, 93);
+    background-color:rgb(9, 9, 145);
+
+}
+#eye h1{
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(218, 70, 70);
+    margin: auto;
+
+}
+form{
+    margin-top: 4%;
+}
+
+label,input{display: block;
+    text-align: center;
+
+    
+}
+label{font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    color:coral;
+    margin: 7px auto;
+    }
+input{
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: coral;
+    border: 2px solid rgb(248, 161, 0);
+    background-color: rgb(94, 204, 99);
+
+}
+#sub{
+    margin: 10px auto;
+    font-size:21px ;
+    color: rgb(247, 12, 12);
+    transition: ease-in-out .3s;
+    text-transform: uppercase;
+}
+#sub:hover{
+    background-color: rgb(16, 12, 247);
+   
+}
+.para{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(45, 207, 180);
+}
+.para a{
+    font-size: 35px;
+    text-decoration: none;
+    color: brown;
+}
